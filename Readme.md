@@ -22,7 +22,7 @@
 <img src='img/mobile view.png' />
 
 ## Result
- <img src='img/result.jpg' />
+ <img src='https://raw.githubusercontent.com/harshdev-7275/findit/main/img/result.JPG' />
 
 
 ## Notes 

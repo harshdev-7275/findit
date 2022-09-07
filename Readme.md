@@ -11,6 +11,7 @@
 
 > * In Findit, we can search any thing.
 > * Findit extract the information from reddit api. You can access the website by clicking [here](https://findit01.netlify.app/).
+>* To open the website you have to allow insecure content. Because on scraping data , it gives error
 
 ## Desktop View
 

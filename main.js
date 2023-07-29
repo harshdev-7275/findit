@@ -17,7 +17,7 @@ function getResult(e){
 
 function getdata(searchTerm, sortBy, searchLimit){
     let output =''
-    fetch(`http://www.reddit.com/search.json?q=${searchTerm}&sort=${sortBy}&limit=${searchLimit}`)
+    fetch(`https://www.reddit.com/search.json?q=${searchTerm}&sort=${sortBy}&limit=${searchLimit}`)
  .then(res => res.json())
  .then(data => {
     test = data.data.children.map(data => data.data)
